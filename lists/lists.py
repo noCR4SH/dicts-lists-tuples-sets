@@ -1,3 +1,9 @@
+"""
+Lists are ordered collections of items that can be changed or modified. 
+They can contain items of different types and support indexing and slicing.
+"""
+
+
 # Creating a list
 my_list = [1, 2, 3, "Python", 5.5] 
 print(my_list)
